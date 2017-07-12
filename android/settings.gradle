@@ -1,0 +1,3 @@
+rootProject.name = 'opHealthMobile'
+
+include ':app'
